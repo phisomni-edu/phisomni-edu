@@ -1,4 +1,4 @@
-Resume
+Aran Dharma's Resume
 
 High School:
  - Classes:
@@ -18,3 +18,5 @@ High School:
 	 - Kaggle Introductory Phython Certification
 	 
 College:
+ - Bachelor's Degree in Data Science
+     - Expected Graduation: May, 2027
